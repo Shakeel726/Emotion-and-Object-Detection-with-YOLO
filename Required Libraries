@@ -1,0 +1,8 @@
+tensorflow
+torch torchvision
+ultralytics
+deepface 
+opencv-python  
+mediapipe
+gradio 
+
